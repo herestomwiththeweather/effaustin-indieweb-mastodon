@@ -5,7 +5,7 @@
 * [Pixelfed](https://pixelfed.org)
 * [Misskey](https://join.misskey.page/en-US)
 * [Friendi.ca](https://friendi.ca)
-* [Micro.blog](https://micro.blog)
+* [Micro.blog (indieweb!!!)](https://micro.blog)
 
 <!SLIDE bullets>
 # This Showoff repository
